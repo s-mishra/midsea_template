@@ -1,53 +1,63 @@
 ---
 # Display name
-title: Alex Cook
+title: Swapnil Mishra
 
 # Full Name (for SEO)
-first_name: Alex
-last_name: Cook
+first_name: Swapnil
+last_name: Mishra
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Vice Dean (Research)
+role: Assistant Professor
 # Organizations/Affiliations
 organizations:
   - name: Saw Swee Hock School of Public Health
 
-    url: 'https://sph.nus.edu.sg/faculty-directory/cook-alex-richard/'
+    url: 'https://smishra.dev'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr Alex Cook is an Associate Professor at the NUS Saw Swee Hock School of Public Health where he is also the Vice Dean (Research). He works on infectious disease modelling and statistics, including dengue, influenza and other respiratory pathogens, and on population modelling to assess the effect of evolving demographics on non-communicable diseases such as diabetes. His multidisciplinary team brings together researchers from the fields of statistics, computational biology, computer engineering, mathematics, geography and environmental sciences.
+bio: I primarily work at intersection of public health, machine learning and Bayeasian modelling.
 
-
-
+# List each interest with a dash
 interests:
-  - Infectious disease modelling
-  - Chronic disease modelling
-  - Health economic and policy modelling
-  - Biostatistics
-  - Global Health
+  - Bayesian Machine Learning
+  - Deep Generative Modelling
+  - Renewal Processes
+  - Online Information Diffusion
+  - Stochastic Point Processes
+  - Computational Statistics
+
 education:
   courses:
-    - course: PhD Statistics 
-      institution: Heriot-Watt University
-      year: 2005
-    - course: BSc (hons) 1st class in Statistics
-      institution: Heriot-Watt University
-      year: 2002
+    - course: PhD in Machine Learning
+      institution: The Australian National University
+      year: 2019
+    - course: MS(Hons.) in Artificial Intelligence
+      institution: The Australian National University
+      year: 2014
+    - course: BE in Computer Engineering
+      institution: University of Pune
+      year: 2009
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ephcar@nus.edu.sg'
+    link: 'mailto:swapnil.mishra@gmail.com'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/creswapi
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com.sg/citations?user=Uo7PVCMAAAAJ&hl=en
+    link: https://scholar.google.co.uk/citations?user=RqbpaXcAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/s-mishra
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -63,7 +73,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Modellers
 ---
 
- Dr Alex Cook is an Associate Professor at the NUS Saw Swee Hock School of Public Health where he is also the Vice Dean (Research). He works on infectious disease modelling and statistics, including dengue, influenza and other respiratory pathogens, and on population modelling to assess the effect of evolving demographics on non-communicable diseases such as diabetes. His multidisciplinary team brings together researchers from the fields of statistics, computational biology, computer engineering, mathematics, geography and environmental sciences.
+I primarily work at intersection of public health, machine learning and Bayesian modelling. I am part of [Machine Learning & Global Health Network](https://mlgh.net), which is a multi-country and multi-organisation network focused on doing fundamental research in machine learning and problems related to global health. 
+
+My research focuses on applying and developing statistical machine learning techniques for the broader and messier world of science and public policy, especially global health. I develop flexible and scalable models for understanding various spatiotemporal data, for example, epidemics (COVID-19, Malaria, HIV) and crime. For my doctorate, I  built models for understanding the evolution of popularity in social media. My work focused on algorithms to model point processes with classical machine learning techniques as well as using modern deep learning networks, mainly recurrent networks.
+

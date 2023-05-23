@@ -6,12 +6,12 @@ event_url: https://nus-sg.zoom.us/meeting/register/tZYoc-ugqzMjH9MAcIcRMwqUQLv7O
 
 
 summary: Lessons learnt from the first MIDSEA workshop
-abstract: A/Prof Cook would be sharing the insights gained during our week-long workshop during the inaugral MIDSEA workshop, and plans for how to improve collaboration in infectious disease modelling in ASEAN.
+abstract: Alex Cook would be sharing the insights gained during our week-long workshop during the inaugural MIDSEA workshop, and plans for how to improve collaboration in infectious disease modelling in ASEAN.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-05-23T02:00:00Z'
-date_end: '2030-05-23T03:00:00Z'
+date: '2023-05-24T14:00:00Z'
+date_end: '2030-05-23T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

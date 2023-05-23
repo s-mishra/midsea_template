@@ -10,11 +10,11 @@ sections:
       title: |
         MIDSEA
       image:
-        filename: welcome.jpg
+        filename: icon.jpg
       text: |
         <br>
-        
-         **MIDSEA** is the consortium of people working around the topic of modelling(**M**) infectious(**I**) diseases(**D**) in South(**S**) East(**E**) Asia(**A**). We aim to be an excellence driven consortium for research, teaching, and practice not just in the region but on the world stage.
+
+         **The MIDSEA Network** is a consortium of people working in the area of modelling (**M**) infectious (**I**) diseases (**D**) in South (**S**) East (**E**) Asia (**A**). The network exists to bring together modellers, broadly defined, from our region to share ideas, learn from each other, and contribute to controlling outbreaks in Southeast Asia through our research. You can find out more about us on the [People](people) page and about upcoming [MIDSEA Events](event) and [News](post). 
   
   - block: collection
     content:
