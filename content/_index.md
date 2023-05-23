@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        MIDSEA
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+         **MIDSEA** is the consortium of people working around the topic of modelling(**M**) infectious(**I**) diseases(**D**) in South(**S**) East(**E**) Asia(**A**). We aim to be an excellence driven consortium for research, teaching, and practice not just in the region but on the world stage.
   
   - block: collection
     content:
@@ -45,12 +44,12 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: tm.png
           filters:
             brightness: 1
           parallax: false
           position: center
-          size: cover
+          size: contain
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
