@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crystal Chua | MIDSEA</title>
+    <link>https://example.com/author/crystal-chua/</link>
+      <atom:link href="https://example.com/author/crystal-chua/index.xml" rel="self" type="application/rss+xml" />
+    <description>Crystal Chua</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/crystal-chua/avatar_hu4c500493106fac8aeb34a8f084b4d6d6_19900_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Crystal Chua</title>
+      <link>https://example.com/author/crystal-chua/</link>
+    </image>
+    
+  </channel>
+</rss>
