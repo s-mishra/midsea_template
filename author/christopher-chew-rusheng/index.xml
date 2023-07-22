@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Chew Rusheng | MIDSEA</title>
+    <link>https://example.com/author/christopher-chew-rusheng/</link>
+      <atom:link href="https://example.com/author/christopher-chew-rusheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher Chew Rusheng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/christopher-chew-rusheng/avatar_hubd8b4a84263d286afd20e23204d6e19c_1719565_270x270_fill_lanczos_center_3.png</url>
+      <title>Christopher Chew Rusheng</title>
+      <link>https://example.com/author/christopher-chew-rusheng/</link>
+    </image>
+    
+  </channel>
+</rss>

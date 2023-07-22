@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Borame L Dickens | MIDSEA</title>
+    <link>https://example.com/author/borame-l-dickens/</link>
+      <atom:link href="https://example.com/author/borame-l-dickens/index.xml" rel="self" type="application/rss+xml" />
+    <description>Borame L Dickens</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/borame-l-dickens/avatar_hudb92449d3db90d5e188abdb0c3b5faf2_1367337_270x270_fill_lanczos_center_3.png</url>
+      <title>Borame L Dickens</title>
+      <link>https://example.com/author/borame-l-dickens/</link>
+    </image>
+    
+  </channel>
+</rss>

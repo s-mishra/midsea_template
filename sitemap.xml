@@ -2,16 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/event/ol7/</loc>
-    <lastmod>2023-05-24T14:00:00+00:00</lastmod>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2023-08-16T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/ol8/</loc>
+    <lastmod>2023-08-16T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/23-08-16-midsea-8/</loc>
+    <lastmod>2023-08-16T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/event/</loc>
-    <lastmod>2023-05-24T14:00:00+00:00</lastmod>
+    <lastmod>2023-08-16T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <loc>https://example.com/event/ol7/</loc>
+    <lastmod>2023-05-24T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/23-05-23-confs/</loc>
@@ -52,22 +60,109 @@
     <loc>https://example.com/author/alex-cook/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/author/angkana-t.-huang/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/aurelio-a.-de-los-reyes-v/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/authors/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/bimandra-djaafara/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/borame-l-dickens/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/author/chaw-li-ling/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/chawarat-rotejanaprasert/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/chen-yining/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/chris/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/christopher-chew-rusheng/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/author/crystal-chua/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/author/greco-mark-malijan/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/haidee-a.-valverde/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/hannah-clapham/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/jin-shihui/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/keisuke-ejima/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/kiesha-prem/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/lou-jing/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/luo-wei/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/mark-jit/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/may-anne-e.-mata/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/nirada/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/phetsavanh-chanthavilay/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/phung-khanh-lam/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication_types/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/rahmat-sagara/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/sompob-saralamba/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/sophearen-lth/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/swapnil-mishra/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/thinh-ong/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/thitiya-theparod/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/victoria-may-p.-mendoza/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/wanrudee-isaranuwatchai/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

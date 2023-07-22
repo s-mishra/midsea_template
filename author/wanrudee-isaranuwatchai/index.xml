@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wanrudee Isaranuwatchai | MIDSEA</title>
+    <link>https://example.com/author/wanrudee-isaranuwatchai/</link>
+      <atom:link href="https://example.com/author/wanrudee-isaranuwatchai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wanrudee Isaranuwatchai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/wanrudee-isaranuwatchai/avatar_hua0ab621c1f1789f0a3c2c3ea3e3fde65_740707_270x270_fill_lanczos_center_3.png</url>
+      <title>Wanrudee Isaranuwatchai</title>
+      <link>https://example.com/author/wanrudee-isaranuwatchai/</link>
+    </image>
+    
+  </channel>
+</rss>
