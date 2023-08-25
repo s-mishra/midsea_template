@@ -67,6 +67,9 @@
     <loc>https://example.com/author/angkana-t.-huang/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/author/annapoorna-prakash/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/author/aurelio-a.-de-los-reyes-v/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -86,6 +89,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/chawarat-rotejanaprasert/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/chayapat-rachatan/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/chen-yining/</loc>
@@ -112,10 +118,16 @@
     <loc>https://example.com/author/jin-shihui/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/author/jomar-fajardo-rabajante/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/author/keisuke-ejima/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/kiesha-prem/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/lin-wang/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/lou-jing/</loc>
@@ -127,7 +139,13 @@
     <loc>https://example.com/author/mark-jit/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/author/maxine-tan/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/author/may-anne-e.-mata/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/monica-c-torres/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/nirada/</loc>
@@ -167,6 +185,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/wanrudee-isaranuwatchai/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/wirichada-pan-ngum/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
