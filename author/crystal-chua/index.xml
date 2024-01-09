@@ -5,12 +5,38 @@
     <link>https://example.com/author/crystal-chua/</link>
       <atom:link href="https://example.com/author/crystal-chua/index.xml" rel="self" type="application/rss+xml" />
     <description>Crystal Chua</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jan 2024 14:00:00 +0800</lastBuildDate>
     <image>
       <url>https://example.com/author/crystal-chua/avatar_hu4c500493106fac8aeb34a8f084b4d6d6_19900_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Crystal Chua</title>
       <link>https://example.com/author/crystal-chua/</link>
     </image>
+    
+    <item>
+      <title>MIDSEA Webinar Season 2 Session 3</title>
+      <link>https://example.com/event/ol3/</link>
+      <pubDate>Wed, 17 Jan 2024 14:00:00 +0800</pubDate>
+      <guid>https://example.com/event/ol3/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MIDSEA Webinar Season 2 Session 3</title>
+      <link>https://example.com/post/24-01-17-mid-sea-3/</link>
+      <pubDate>Mon, 08 Jan 2024 14:00:00 +0800</pubDate>
+      <guid>https://example.com/post/24-01-17-mid-sea-3/</guid>
+      <description>&lt;p&gt;Please join us at our next online seminar where A/Prof Marc Brisson will share more about the Impact of HPV Vaccination. Please register at &lt;a href=&#34;https://nus-sg.zoom.us/meeting/register/tZYuduqhpzooGtaIeeG0aMXHEPtiC2jtJ4rs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nus-sg.zoom.us/meeting/register/tZYuduqhpzooGtaIeeG0aMXHEPtiC2jtJ4rs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;MIDSEA Council would like to extend an invitation to you to attend the 3rd session of the 2023/2024 webinar series. In this session, Professor Marc Brisson from Université Laval will be sharing his experience in modelling the impact of human papillomavirus (HPV) vaccination at the population level. We hope you could join us on 17 Jan, &lt;em&gt;&lt;strong&gt;at 12.30pm (Yangon), 1pm (Bangkok, Hanoi, Jakarta), 2pm (Kuala Lumpur, Manila, Singapore) and 3pm (Jayapura)&lt;/strong&gt;&lt;/em&gt; (&lt;a href=&#34;https://www.worldtimebuddy.com/?qm=1&amp;amp;lid=6611854,1609350,1880252,1645457&amp;amp;h=1880252&amp;amp;date=2022-11-16&amp;amp;sln=14-15&amp;amp;hf=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Time Zone Conversion&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;You are welcome to share this invitation with your network to join this dialogue. The registration link is &lt;a href=&#34;https://nus-sg.zoom.us/meeting/register/tZYuduqhpzooGtaIeeG0aMXHEPtiC2jtJ4rs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nus-sg.zoom.us/meeting/register/tZYuduqhpzooGtaIeeG0aMXHEPtiC2jtJ4rs&lt;/a&gt;.
+For any queries, please feel free to contact Crystal (&lt;a href=&#34;mailto:crystal.chua@nus.edu.sg&#34;&gt;crystal.chua@nus.edu.sg&lt;/a&gt;).&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>
