@@ -10,4 +10,4 @@ banner:
   image: ''
 ---
 
-**Expect the next MIDSEA Seminar in August 2023! More details will be announced here.**
+<!-- **Expect the next MIDSEA Seminar in August 2023! More details will be announced here.** -->
