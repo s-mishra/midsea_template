@@ -5,12 +5,42 @@
     <link>https://example.com/tag/hpv/</link>
       <atom:link href="https://example.com/tag/hpv/index.xml" rel="self" type="application/rss+xml" />
     <description>HPV</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jan 2024 14:00:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Feb 2024 14:00:00 +0800</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu215c6a594f1c7b449e84fe10ab34abe8_13979_512x512_fill_lanczos_center_3.png</url>
       <title>HPV</title>
       <link>https://example.com/tag/hpv/</link>
     </image>
+    
+    <item>
+      <title>MIDSEA Webinar Season 2 Session 4</title>
+      <link>https://example.com/event/ol4/</link>
+      <pubDate>Wed, 21 Feb 2024 14:00:00 +0800</pubDate>
+      <guid>https://example.com/event/ol4/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MIDSEA Webinar Season 2 Session 4</title>
+      <link>https://example.com/post/ol4/</link>
+      <pubDate>Wed, 21 Feb 2024 14:00:00 +0800</pubDate>
+      <guid>https://example.com/post/ol4/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
     
     <item>
       <title>MIDSEA Webinar Season 2 Session 3</title>

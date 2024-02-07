@@ -3,35 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/authors/</loc>
-    <lastmod>2024-01-17T14:00:00+08:00</lastmod>
+    <lastmod>2024-03-22T09:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/crystal-chua/</loc>
-    <lastmod>2024-01-17T14:00:00+08:00</lastmod>
+    <lastmod>2024-03-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/healthcare/</loc>
+    <lastmod>2024-03-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/hiper/</loc>
+    <lastmod>2024-03-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/hiper-sym-24/</loc>
+    <lastmod>2024-03-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/hiper-sym-24/</loc>
+    <lastmod>2024-03-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/hta/</loc>
+    <lastmod>2024-03-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2024-03-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/</loc>
+    <lastmod>2024-03-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2024-03-22T09:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/hpv/</loc>
-    <lastmod>2024-01-17T14:00:00+08:00</lastmod>
+    <lastmod>2024-02-21T14:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/ol4/</loc>
+    <lastmod>2024-02-21T14:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/ol4/</loc>
+    <lastmod>2024-02-21T14:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/vaccination/</loc>
+    <lastmod>2024-02-21T14:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/event/ol3/</loc>
     <lastmod>2024-01-17T14:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/event/</loc>
-    <lastmod>2024-01-17T14:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2024-01-17T14:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/vaccination/</loc>
-    <lastmod>2024-01-17T14:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2024-01-08T14:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/24-01-17-mid-sea-3/</loc>
