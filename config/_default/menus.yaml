@@ -13,6 +13,9 @@ main:
   - name: Events
     url: event
     weight: 40
+  - name: Summer School 2024
+    url: summer-school
+    weight: 40
   - name: Contact
     url: contact
     weight: 60
