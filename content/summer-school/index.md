@@ -53,5 +53,5 @@ Not all applicants will receive a scholarship.
 - If an applicant accepts the scholarship and then withdraws without good reason, we may require the repayment any expense to the organizers.
 
 
-Please complete the form linked [here](https://nus.syd1.qualtrics.com/jfe/form/SV_erggX1YdMJxMjHM) for registration and scholarship application.
+Please complete the form linked [here](https://nus.syd1.qualtrics.com/jfe/form/SV_cC2bX1hCalVMPeS) for registration and scholarship application.
 
