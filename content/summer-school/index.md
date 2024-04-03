@@ -48,10 +48,10 @@ Not all applicants will receive a scholarship.
 
 ## Conveyance of Success Applications
 
-- Successful applicants will be informed via email by 15 Apr 2024
+- Successful applicants will be informed via email by 22 Apr 2024
 - Acceptance letter of scholarships will be expected to be signed and returned to organizers within a week
 - If an applicant accepts the scholarship and then withdraws without good reason, we may require the repayment any expense to the organizers.
 
 
-Please complete the form linked [here](https://nus.syd1.qualtrics.com/jfe/form/SV_cC2bX1hCalVMPeS) for registration and scholarship application.
+Please complete the form linked [here](https://nus.syd1.qualtrics.com/jfe/form/SV_cC2bX1hCalVMPeS) for registration and scholarship application by 8 Apr 2024.
 
