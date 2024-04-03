@@ -13,6 +13,36 @@
     </image>
     
     <item>
+      <title>MIDSEA Summer School, Workshop and Symposium</title>
+      <link>https://example.com/event/summer-school-edm/</link>
+      <pubDate>Wed, 19 Jun 2024 09:00:00 +0800</pubDate>
+      <guid>https://example.com/event/summer-school-edm/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MIDSEA Online Seminar Season 2 Sesion 6</title>
+      <link>https://example.com/event/season-2-session-6/</link>
+      <pubDate>Wed, 17 Apr 2024 14:00:00 +0800</pubDate>
+      <guid>https://example.com/event/season-2-session-6/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>MIDSEA Summer School 2024</title>
       <link>https://example.com/summer-school/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
@@ -89,11 +119,11 @@
 &lt;p&gt;Not all applicants will receive a scholarship.&lt;/p&gt;
 &lt;h2 id=&#34;conveyance-of-success-applications&#34;&gt;Conveyance of Success Applications&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Successful applicants will be informed via email by 15 Apr 2024&lt;/li&gt;
+&lt;li&gt;Successful applicants will be informed via email by 22 Apr 2024&lt;/li&gt;
 &lt;li&gt;Acceptance letter of scholarships will be expected to be signed and returned to organizers within a week&lt;/li&gt;
 &lt;li&gt;If an applicant accepts the scholarship and then withdraws without good reason, we may require the repayment any expense to the organizers.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Please complete the form linked &lt;a href=&#34;https://nus.syd1.qualtrics.com/jfe/form/SV_cC2bX1hCalVMPeS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; for registration and scholarship application.&lt;/p&gt;
+&lt;p&gt;Please complete the form linked &lt;a href=&#34;https://nus.syd1.qualtrics.com/jfe/form/SV_cC2bX1hCalVMPeS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; for registration and scholarship application by 8 Apr 2024.&lt;/p&gt;
 </description>
     </item>
     
