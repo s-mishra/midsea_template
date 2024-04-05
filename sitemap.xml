@@ -10,7 +10,15 @@
     <lastmod>2024-06-19T09:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2024-06-19T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/event/summer-school-edm/</loc>
+    <lastmod>2024-06-19T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/summer-school-edm/</loc>
     <lastmod>2024-06-19T09:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -79,10 +87,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/hta/</loc>
-    <lastmod>2024-03-22T09:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/</loc>
     <lastmod>2024-03-22T09:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

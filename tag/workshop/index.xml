@@ -27,5 +27,20 @@ Further event details, including page elements such as image galleries, can be a
 </description>
     </item>
     
+    <item>
+      <title>MIDSEA Summer School, Workshop and Symposium</title>
+      <link>https://example.com/post/summer-school-edm/</link>
+      <pubDate>Wed, 19 Jun 2024 09:00:00 +0800</pubDate>
+      <guid>https://example.com/post/summer-school-edm/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

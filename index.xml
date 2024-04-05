@@ -28,6 +28,21 @@ Further event details, including page elements such as image galleries, can be a
     </item>
     
     <item>
+      <title>MIDSEA Summer School, Workshop and Symposium</title>
+      <link>https://example.com/post/summer-school-edm/</link>
+      <pubDate>Wed, 19 Jun 2024 09:00:00 +0800</pubDate>
+      <guid>https://example.com/post/summer-school-edm/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>MIDSEA Online Seminar Season 2 Sesion 6</title>
       <link>https://example.com/event/season-2-session-6/</link>
       <pubDate>Wed, 17 Apr 2024 14:00:00 +0800</pubDate>
@@ -73,12 +88,12 @@ Further event details, including page elements such as image galleries, can be a
 &lt;figure  id=&#34;figure-summer-school-2024-program-schedule&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;here&#34; srcset=&#34;
-               /media/ps_hu217ebefd618f58a14aca9192c0e7a98b_188895_82ff941f1cbdb54a75ce8b2c0e735b44.webp 400w,
-               /media/ps_hu217ebefd618f58a14aca9192c0e7a98b_188895_5075714c2da899c5940cdd50957e541f.webp 760w,
-               /media/ps_hu217ebefd618f58a14aca9192c0e7a98b_188895_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/media/ps_hu217ebefd618f58a14aca9192c0e7a98b_188895_82ff941f1cbdb54a75ce8b2c0e735b44.webp&#34;
+               /media/ps_hu450c3d992ac2e1de978cd0e3188cff60_506677_d18e3dfdd7bbd999619d41ec874c6825.webp 400w,
+               /media/ps_hu450c3d992ac2e1de978cd0e3188cff60_506677_5875736bf77db169f7aaf9fed1894860.webp 760w,
+               /media/ps_hu450c3d992ac2e1de978cd0e3188cff60_506677_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/media/ps_hu450c3d992ac2e1de978cd0e3188cff60_506677_d18e3dfdd7bbd999619d41ec874c6825.webp&#34;
                width=&#34;760&#34;
-               height=&#34;583&#34;
+               height=&#34;652&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Summer School 2024 program schedule.
