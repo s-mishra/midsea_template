@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         We welcome people from all backgrounds. If you are interested in joining, working or funding with us, please contact us at.
-      email: crystal.chua@nus.edu.sg
+      email: barathi.vadivelu@nus.edu.sg
       phone:  +65 6601 2408
       address:
         street: Tahir Foundation Building, 12 Science Drive 2
