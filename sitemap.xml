@@ -273,6 +273,9 @@
     <loc>https://example.com/author/nirada/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/author/nirada-vannavong/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/author/phetsavanh-chanthavilay/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -295,6 +298,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/thinh-ong/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/thitiya-theparod/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/thitiya-theparod/</loc>
