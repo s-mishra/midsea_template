@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 ---
 
-Following on from the successful [MIDSEA Summer School 2024](/summer-school/2024) in Quy Nhon, Viet Nam, this year we are moving to the ancient city of Yogyakarta in Indonesia. The MIDSEA Summer School 2025 will run from 23 to 29 June, in partnership with Universitas Gadjah Mada, one of Indonesia’s and the region’s leading universities.
+Following on from the successful [MIDSEA Summer School 2024](/summer-school/2024) in Quy Nhon, Viet Nam, this year we are moving to the ancient city of **Yogyakarta in Indonesia**. The [MIDSEA Summer School 2025](/summer-school/2025) will run from **23 to 29 June**, in partnership with Universitas Gadjah Mada, one of Indonesia’s and the region’s leading universities.
 
 The main features of the Summer School will be:
 - Parallel Tracks to cover basic and advanced topics in infectious disease modelling
