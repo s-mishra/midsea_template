@@ -13,9 +13,18 @@ main:
   - name: Events
     url: event
     weight: 40
-  - name: Summer School 2024
+  - name: Summer School
     url: summer-school
     weight: 40
+    identifier: summerschool
+  - name: "2025 (Current)"
+    url: summer-school/2025
+    weight: 1
+    parent: summerschool
+  - name: "2024 (Previous)"
+    url: summer-school/2024
+    weight: 2
+    parent: summerschool
   - name: Contact
     url: contact
     weight: 60
