@@ -50,15 +50,6 @@ The fees for MIDSEA Summer School 2025 depend on the country you are in and the 
 
 Note we use the World Bank categorisations (available [here](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups)) to define LMIC and HIC. In ASEAN, Brunei Darussalam and Singapore are classified as HIC and other countries as LMIC. Outside ASEAN, please refer to the World Bank definitions. For staff and students at Universitas Gadjah Madah (UGM), fees will be handled separately by UGM.
 
-There are three major costs to take part in the summer school:
-+ The **registration fees** for the summer school are as follows:
-  - Academics, students, and government officials in:
-    - "Lower and Lower-Middle Income Countries: USD 500"
-    - "High Income Countries: USD 1000"
-  - Private Sector (all countries): USD 3000
-+ The **accommodation fees** (including meals) will be announced closer to the date
-+ **Travel** to the venue is up to the individual to arrange
-
 ## Application for Scholarship
 Participants may apply for a full scholarship to cover both the (1) **registration fees** and the (2) **accommodation fees**.
 
