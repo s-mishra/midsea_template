@@ -18,7 +18,7 @@ The main features of the Summer School will be:
 - Opportunities to network with other modellers of different experience levels from across Southeast Asia and beyond 
 
 ## Program Schedule
-![here](ps-2025.png "Summer School 2025 program schedule.")
+![here](ps-2025.jpeg "Summer School 2025 program schedule.")
 The summer school will run from June 22nd to June 30th, 2025. Below is the detailed schedule with parallel tracks:
 
 <!-- | Day | Date | Session | Track 1 | Track 2 | Track 3 | Track 4 | Track 5 |
