@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aurelio A. de los Reyes V | MIDSEA</title>
+    <link>https://example.com/author/aurelio-a.-de-los-reyes-v/</link>
+      <atom:link href="https://example.com/author/aurelio-a.-de-los-reyes-v/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aurelio A. de los Reyes V</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/aurelio-a.-de-los-reyes-v/avatar_hu12800e098abb44df7a047752e0754854_121078_270x270_fill_lanczos_center_3.png</url>
+      <title>Aurelio A. de los Reyes V</title>
+      <link>https://example.com/author/aurelio-a.-de-los-reyes-v/</link>
+    </image>
+    
+  </channel>
+</rss>

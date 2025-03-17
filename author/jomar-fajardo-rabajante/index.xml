@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jomar Fajardo Rabajante | MIDSEA</title>
+    <link>https://example.com/author/jomar-fajardo-rabajante/</link>
+      <atom:link href="https://example.com/author/jomar-fajardo-rabajante/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jomar Fajardo Rabajante</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/jomar-fajardo-rabajante/avatar_hu28bd80f8d741c280807edd5d5ab5f69a_198363_270x270_fill_lanczos_center_3.png</url>
+      <title>Jomar Fajardo Rabajante</title>
+      <link>https://example.com/author/jomar-fajardo-rabajante/</link>
+    </image>
+    
+  </channel>
+</rss>

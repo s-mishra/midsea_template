@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Summer School | MIDSEA</title>
+    <link>https://example.com/tag/summer-school/</link>
+      <atom:link href="https://example.com/tag/summer-school/index.xml" rel="self" type="application/rss+xml" />
+    <description>Summer School</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jun 2024 09:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu215c6a594f1c7b449e84fe10ab34abe8_13979_512x512_fill_lanczos_center_3.png</url>
+      <title>Summer School</title>
+      <link>https://example.com/tag/summer-school/</link>
+    </image>
+    
+    <item>
+      <title>MIDSEA Summer School, Workshop and Symposium</title>
+      <link>https://example.com/event/summer-school-edm/</link>
+      <pubDate>Wed, 19 Jun 2024 09:00:00 +0800</pubDate>
+      <guid>https://example.com/event/summer-school-edm/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MIDSEA Summer School, Workshop and Symposium</title>
+      <link>https://example.com/post/summer-school-edm/</link>
+      <pubDate>Wed, 19 Jun 2024 09:00:00 +0800</pubDate>
+      <guid>https://example.com/post/summer-school-edm/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

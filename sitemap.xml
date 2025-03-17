@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/summer-school/2025/</loc>
+    <lastmod>2025-03-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/summer-school/</loc>
+    <lastmod>2025-03-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/authors/</loc>
     <lastmod>2024-06-19T09:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -66,7 +74,7 @@
     <lastmod>2024-04-17T14:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/summer-school/</loc>
+    <loc>https://example.com/summer-school/2024/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -273,9 +281,6 @@
     <loc>https://example.com/author/nirada/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/nirada-vannavong/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/author/phetsavanh-chanthavilay/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -298,9 +303,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/thinh-ong/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/author/thitiya-theparod/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/thitiya-theparod/</loc>
