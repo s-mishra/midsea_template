@@ -1,9 +1,5 @@
 ---
 title: "Track 5: Specialised topics"
-date: "2025-03-16T00:00:00Z"
-type: "page"
-layout: "page"
-profile: false  # Show author profile?
 ---
 
 # Track 5: Specialised topics

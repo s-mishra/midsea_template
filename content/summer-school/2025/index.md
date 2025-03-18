@@ -68,19 +68,19 @@ The summer school will run from June 22nd to June 30th, 2025. Below is the detai
   .yellow {background-color: #FFFF66;}
 </style>
 
-| <div class="col-day">Day</div> | <div class="col-date">Date</div> | <div class="col-session">Session</div> | <div class="col-track1">[Track](/summer-school/2025/track1)</div> | <div class="col-track2">[Track](/summer-school/2025/track2)</div> | <div class="col-track3">[Track](/summer-school/2025/track3)</div> | <div class="col-track4">[Track](/summer-school/2025/track4)</div> | <div class="col-track5">[Track](/summer-school/2025/track5)</div> |
+| <div class="col-day">Day</div> | <div class="col-date">Date</div> | <div class="col-session">Session</div> | <div class="col-track1">[Modelling 101](/summer-school/2025/tracks/track1)</div> | <div class="col-track2">[Simulation](/summer-school/2025/tracks/track2)</div> | <div class="col-track3">[Inference](/summer-school/2025/tracks/track3)</div> | <div class="col-track4">[AI](/summer-school/2025/tracks/track4)</div> | <div class="col-track5">[Specialised topics](/summer-school/2025/tracks/track5)</div> |
 |---|---|---|---|---|---|---|---|
 | 0 Sun | 22nd | PM | | | <span class="white">Arrival</span> | | |
 | 1 Mon | 23rd | AM | | | <span class="orange">Opening</span> | | |
-| ^ | ^ | PM | <span class="blue">[Modelling 101](/summer-school/2025/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/track2)</span> | <span class="blue">[Inference](/summer-school/2025/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/track5)</span> |
-| 2 Tue | 24th | AM | <span class="blue">[Modelling 101](/summer-school/2025/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/track2)</span> | <span class="blue">[Inference](/summer-school/2025/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/track5)</span> |
+| ^ | ^ | PM | <span class="blue">[Modelling 101](/summer-school/2025/tracks/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/tracks/track2)</span> | <span class="blue">[Inference](/summer-school/2025/tracks/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/tracks/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/tracks/track5)</span> |
+| 2 Tue | 24th | AM | <span class="blue">[Modelling 101](/summer-school/2025/tracks/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/tracks/track2)</span> | <span class="blue">[Inference](/summer-school/2025/tracks/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/tracks/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/tracks/track5)</span> |
 | ^ | ^ | PM | | | <span class="orange">Plenary workshops</span> | | |
 | 3 Wed | 25th | | | | <span class="yellow">Excursion</span> | | |
-| 4 Thu | 26th | AM | <span class="blue">[Modelling 101](/summer-school/2025/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/track2)</span> | <span class="blue">[Inference](/summer-school/2025/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/track5)</span> |
+| 4 Thu | 26th | AM | <span class="blue">[Modelling 101](/summer-school/2025/tracks/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/tracks/track2)</span> | <span class="blue">[Inference](/summer-school/2025/tracks/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/tracks/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/tracks/track5)</span> |
 | ^ | ^ | PM | | | <span class="orange">Plenary workshops</span> | | |
-| 5 Fri | 27th | AM | <span class="blue">[Modelling 101](/summer-school/2025/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/track2)</span> | <span class="blue">[Inference](/summer-school/2025/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/track5)</span> |
+| 5 Fri | 27th | AM | <span class="blue">[Modelling 101](/summer-school/2025/tracks/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/tracks/track2)</span> | <span class="blue">[Inference](/summer-school/2025/tracks/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/tracks/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/tracks/track5)</span> |
 | ^ | ^ | PM | | | <span class="orange">Plenary workshops</span> | | |
-| 6 Sat | 28th | AM | <span class="blue">[Modelling 101](/summer-school/2025/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/track2)</span> | <span class="blue">[Inference](/summer-school/2025/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/track5)</span> |
+| 6 Sat | 28th | AM | <span class="blue">[Modelling 101](/summer-school/2025/tracks/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/tracks/track2)</span> | <span class="blue">[Inference](/summer-school/2025/tracks/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/tracks/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/tracks/track5)</span> |
 | ^ | ^ | PM | | | <span class="yellow">Student directed learning</span> | | |
 | 7 Sun | 29th | AM | | | <span class="orange">Conference</span> | | |
 | ^ | ^ | PM | | | <span class="orange">Conference</span> | | |
@@ -117,3 +117,6 @@ Not all applicants will receive a scholarship.
 - If an applicant accepts the scholarship and then withdraws without good reason, we may require the repayment any expense to the organizers
 
 Please complete the form linked [here](https://nus.syd1.qualtrics.com/jfe/form/SV_5ph6UjhMcFgoQey) for registration and scholarship application by **2 Apr 2025**. Applications after this date will only be considered if space can be found, so *apply early* to avoid disappointment!
+
+## Testimonials for last year participants
+![](testimonials.jpeg "Summer School 2024 participants with their feedback.")

@@ -1,8 +1,5 @@
 ---
 title: "Track 1: Modelling 101"
-date: "2025-03-16T00:00:00Z"
-draft: false
-profile: false  # Show author profile?
 ---
 
 # Track 1: Modelling 101

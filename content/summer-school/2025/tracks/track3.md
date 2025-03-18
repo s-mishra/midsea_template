@@ -1,10 +1,5 @@
 ---
 title: "Track 3: Inference"
-date: "2025-03-16T00:00:00Z"
-draft: false
-type: "page"
-layout: "page"
-profile: false  # Show author profile?
 ---
 
 # Track 3: Inference
