@@ -1,6 +1,6 @@
 git worktree add -B gh-pages public origin/gh-pages
 rm -rf public/*
-~/Tools/hugo/hugo --disableFastRender
+~/Tools/hugo/hugo
 
 cd public
 git add --all
