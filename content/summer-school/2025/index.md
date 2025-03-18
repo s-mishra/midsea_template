@@ -11,33 +11,80 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 ---
 
-Following on from the successful [MIDSEA Summer School 2024](/summer-school/2024) in Quy Nhon, Viet Nam, this year we are moving to the ancient city of **Yogyakarta in Indonesia**. The [MIDSEA Summer School 2025](/summer-school/2025) will run from **23 to 29 June**, in partnership with Universitas Gadjah Mada, one of Indonesia’s and the region’s leading universities.
+Following on from the successful [MIDSEA Summer School 2024](/summer-school/2024) in Quy Nhon, Viet Nam, this year we are moving to the ancient city of **Yogyakarta in Indonesia**. The [MIDSEA Summer School 2025](/summer-school/2025) will run from **23 to 29 June**, in partnership with Universitas Gadjah Mada, one of Indonesia's and the region's leading universities.
 
 The main features of the Summer School will be:
 - Parallel Tracks to cover basic and advanced topics in infectious disease modelling
 - Opportunities to network with other modellers of different experience levels from across Southeast Asia and beyond 
 
 ## Program Schedule
-![here](ps-2025.jpeg "Summer School 2025 program schedule.")
+<!-- ![here](ps-2025.jpeg "Summer School 2025 program schedule.") -->
 The summer school will run from June 22nd to June 30th, 2025. Below is the detailed schedule with parallel tracks:
 
-<!-- | Day | Date | Session | Track 1 | Track 2 | Track 3 | Track 4 | Track 5 |
-|:---:|:---:|:---:|:---|:---|:---|:---|:---|
-| 0 | Sun 22nd | PM | | | Arrival | | |
-| 1 | Mon 23rd | AM | | | Opening | | |
-| | | PM | Modelling 101 | Simulation | Inference | AI | Specialised topics |
-| 2 | Tue 24th | AM | Modelling 101 | Simulation | Inference | AI | Specialised topics |
-| | | PM | | | Plenary workshops | | |
-| 3 | Wed 25th | | | | Excursion | | |
-| 4 | Thu 26th | AM | Modelling 101 | Simulation | Inference | AI | Specialised topics |
-| | | PM | | | Plenary workshops | | |
-| 5 | Fri 27th | AM | Modelling 101 | Simulation | Inference | AI | Specialised topics |
-| | | PM | | | Plenary workshops | | |
-| 6 | Sat 28th | AM | Modelling 101 | Simulation | Inference | AI | Specialised topics |
-| | | PM | | | Student directed learning | | |
-| 7 | Sun 29th | AM | | | Conference | | |
-| | | PM | | | Conference | | |
-| 8 | Mon 30th | AM | | | Departure | | | -->
+<style>
+  table {
+    font-size: small;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  table td, table th {
+    padding: 0;
+    line-height: 1;
+    margin: 0;
+    height: 0.9em;
+    vertical-align: top;
+    overflow: hidden;
+  }
+  table .col-day {
+    width: 8%;
+  }
+  table .col-date {
+    width: 6%;
+  }
+  table .col-session {
+    width: 5%;
+  }
+  table .col-track1 {
+    width: 15%;
+  }
+  table .col-track2 {
+    width: 12%;
+  }
+  table .col-track3 {
+    width: 25%;
+  }
+  table .col-track4 {
+    width: 7%;
+  }
+  table .col-track5 {
+    width: 22%;
+  }
+  .white {background-color: #FFFFFF;}
+  .orange {background-color: #FFCC66;}
+  .blue {background-color: #99CCFF;}
+  .purple {background-color: #CC99CC;}
+  .light-purple {background-color: rgb(213, 189, 208);}
+  .green {background-color: #99CC99;}
+  .yellow {background-color: #FFFF66;}
+</style>
+
+| <div class="col-day">Day</div> | <div class="col-date">Date</div> | <div class="col-session">Session</div> | <div class="col-track1">[Track](/summer-school/2025/track1)</div> | <div class="col-track2">[Track](/summer-school/2025/track2)</div> | <div class="col-track3">[Track](/summer-school/2025/track3)</div> | <div class="col-track4">[Track](/summer-school/2025/track4)</div> | <div class="col-track5">[Track](/summer-school/2025/track5)</div> |
+|---|---|---|---|---|---|---|---|
+| 0 Sun | 22nd | PM | | | <span class="white">Arrival</span> | | |
+| 1 Mon | 23rd | AM | | | <span class="orange">Opening</span> | | |
+| ^ | ^ | PM | <span class="blue">[Modelling 101](/summer-school/2025/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/track2)</span> | <span class="blue">[Inference](/summer-school/2025/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/track5)</span> |
+| 2 Tue | 24th | AM | <span class="blue">[Modelling 101](/summer-school/2025/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/track2)</span> | <span class="blue">[Inference](/summer-school/2025/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/track5)</span> |
+| ^ | ^ | PM | | | <span class="orange">Plenary workshops</span> | | |
+| 3 Wed | 25th | | | | <span class="yellow">Excursion</span> | | |
+| 4 Thu | 26th | AM | <span class="blue">[Modelling 101](/summer-school/2025/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/track2)</span> | <span class="blue">[Inference](/summer-school/2025/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/track5)</span> |
+| ^ | ^ | PM | | | <span class="orange">Plenary workshops</span> | | |
+| 5 Fri | 27th | AM | <span class="blue">[Modelling 101](/summer-school/2025/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/track2)</span> | <span class="blue">[Inference](/summer-school/2025/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/track5)</span> |
+| ^ | ^ | PM | | | <span class="orange">Plenary workshops</span> | | |
+| 6 Sat | 28th | AM | <span class="blue">[Modelling 101](/summer-school/2025/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/track2)</span> | <span class="blue">[Inference](/summer-school/2025/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/track5)</span> |
+| ^ | ^ | PM | | | <span class="yellow">Student directed learning</span> | | |
+| 7 Sun | 29th | AM | | | <span class="orange">Conference</span> | | |
+| ^ | ^ | PM | | | <span class="orange">Conference</span> | | |
+| 8 Mon | 30th | AM | | | <span class="white">Departure</span> | | |
 
 ## Registration Fees
 The fees for MIDSEA Summer School 2025 depend on the country you are in and the accommodation you request.

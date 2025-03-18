@@ -1,6 +1,6 @@
 git worktree add -B gh-pages public origin/gh-pages
 rm -rf public/*
-~/Downloads/hugo
+~/Tools/hugo/hugo
 
 cd public
 git add --all
