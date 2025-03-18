@@ -1,4 +1,4 @@
-git worktree add -B gh-pages public origin/gh-pages
+# git worktree add -B gh-pages public origin/gh-pages
 rm -rf public/*
 ~/Tools/hugo/hugo
 
