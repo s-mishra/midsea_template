@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nirada | MIDSEA</title>
+    <link>https://example.com/author/nirada/</link>
+      <atom:link href="https://example.com/author/nirada/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nirada</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/nirada/avatar_hu979e2d5e7d78bed0461ff6dcf1029d46_5256801_270x270_fill_lanczos_center_3.png</url>
+      <title>Nirada</title>
+      <link>https://example.com/author/nirada/</link>
+    </image>
+    
+  </channel>
+</rss>
