@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 ---
 
-Following on from the successful [MIDSEA Summer School 2024](/summer-school/2024) in Quy Nhon, Viet Nam, this year we are moving to the ancient city of **Yogyakarta in Indonesia**. The [MIDSEA Summer School 2025](/summer-school/2025) will run from **23 to 29 June**, in partnership with Universitas Gadjah Mada, one of Indonesia's and the region's leading universities.
+Following on from the successful [MIDSEA Summer School 2024](/summer-school/2024) in Quy Nhon, Viet Nam, this year we are moving to the ancient city of **Yogyakarta in Indonesia**. The [MIDSEA Summer School 2025](/summer-school/2025) will run from **23 to 29 June**, in partnership with Universitas Gadjah Mada, one of Indonesia's and the region's leading universities. The venue will be [The Alana Hotel, Yogyakarta](https://www.alanahotels.com/en/hotel/view/3/the-alana-yogyakarta-hotel---convention-center), which will also serve as the accommodation for participants
 
 The main features of the Summer School will be:
 - Parallel Tracks to cover basic and advanced topics in infectious disease modelling
@@ -68,19 +68,19 @@ The summer school will run from June 22nd to June 30th, 2025. Below is the detai
   .yellow {background-color: #FFFF66;}
 </style>
 
-| <div class="col-day">Day</div> | <div class="col-date">Date</div> | <div class="col-session">Session</div> | <div class="col-track1">[Track](/summer-school/2025/tracks/track1)</div> | <div class="col-track2">[Track](/summer-school/2025/tracks/track2)</div> | <div class="col-track3">[Track](/summer-school/2025/tracks/track3)</div> | <div class="col-track4">[Track](/summer-school/2025/tracks/track4)</div> | <div class="col-track5">[Track](/summer-school/2025/tracks/track5)</div> |
+| <div class="col-day">Day</div> | <div class="col-date">Date</div> | <div class="col-session">Session</div> | <div class="col-track1">[Track](/post/tracks/track1)</div> | <div class="col-track2">[Track](/post/tracks/track2)</div> | <div class="col-track3">[Track](/post/tracks/track3)</div> | <div class="col-track4">[Track](/post/tracks/track4)</div> | <div class="col-track5">[Track](/post/tracks/track5)</div> |
 |---|---|---|---|---|---|---|---|
 | 0 Sun | 22nd | PM | | | <span class="white">Arrival</span> | | |
 | 1 Mon | 23rd | AM | | | <span class="orange">Opening</span> | | |
-| ^ | ^ | PM | <span class="blue">[Modelling 101](/summer-school/2025/tracks/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/tracks/track2)</span> | <span class="blue">[Inference](/summer-school/2025/tracks/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/tracks/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/tracks/track5)</span> |
-| 2 Tue | 24th | AM | <span class="blue">[Modelling 101](/summer-school/2025/tracks/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/tracks/track2)</span> | <span class="blue">[Inference](/summer-school/2025/tracks/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/tracks/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/tracks/track5)</span> |
+| ^ | ^ | PM | <span class="blue">[Modelling 101](/post/tracks/track1)</span> | <span class="purple">[Simulation](/post/tracks/track2)</span> | <span class="blue">[Inference](/post/tracks/track3)</span> | <span class="light-purple">[AI](/post/tracks/track4)</span> | <span class="green">[Specialised topics](/post/tracks/track5)</span> |
+| 2 Tue | 24th | AM | <span class="blue">[Modelling 101](/post/tracks/track1)</span> | <span class="purple">[Simulation](/post/tracks/track2)</span> | <span class="blue">[Inference](/post/tracks/track3)</span> | <span class="light-purple">[AI](/post/tracks/track4)</span> | <span class="green">[Specialised topics](/post/tracks/track5)</span> |
 | ^ | ^ | PM | | | <span class="orange">Plenary workshops</span> | | |
 | 3 Wed | 25th | | | | <span class="yellow">Excursion</span> | | |
-| 4 Thu | 26th | AM | <span class="blue">[Modelling 101](/summer-school/2025/tracks/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/tracks/track2)</span> | <span class="blue">[Inference](/summer-school/2025/tracks/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/tracks/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/tracks/track5)</span> |
+| 4 Thu | 26th | AM | <span class="blue">[Modelling 101](/post/tracks/track1)</span> | <span class="purple">[Simulation](/post/tracks/track2)</span> | <span class="blue">[Inference](/post/tracks/track3)</span> | <span class="light-purple">[AI](/post/tracks/track4)</span> | <span class="green">[Specialised topics](/post/tracks/track5)</span> |
 | ^ | ^ | PM | | | <span class="orange">Plenary workshops</span> | | |
-| 5 Fri | 27th | AM | <span class="blue">[Modelling 101](/summer-school/2025/tracks/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/tracks/track2)</span> | <span class="blue">[Inference](/summer-school/2025/tracks/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/tracks/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/tracks/track5)</span> |
+| 5 Fri | 27th | AM | <span class="blue">[Modelling 101](/post/tracks/track1)</span> | <span class="purple">[Simulation](/post/tracks/track2)</span> | <span class="blue">[Inference](/post/tracks/track3)</span> | <span class="light-purple">[AI](/post/tracks/track4)</span> | <span class="green">[Specialised topics](/post/tracks/track5)</span> |
 | ^ | ^ | PM | | | <span class="orange">Plenary workshops</span> | | |
-| 6 Sat | 28th | AM | <span class="blue">[Modelling 101](/summer-school/2025/tracks/track1)</span> | <span class="purple">[Simulation](/summer-school/2025/tracks/track2)</span> | <span class="blue">[Inference](/summer-school/2025/tracks/track3)</span> | <span class="light-purple">[AI](/summer-school/2025/tracks/track4)</span> | <span class="green">[Specialised topics](/summer-school/2025/tracks/track5)</span> |
+| 6 Sat | 28th | AM | <span class="blue">[Modelling 101](/post/tracks/track1)</span> | <span class="purple">[Simulation](/post/tracks/track2)</span> | <span class="blue">[Inference](/post/tracks/track3)</span> | <span class="light-purple">[AI](/post/tracks/track4)</span> | <span class="green">[Specialised topics](/post/tracks/track5)</span> |
 | ^ | ^ | PM | | | <span class="yellow">Student directed learning</span> | | |
 | 7 Sun | 29th | AM | | | <span class="orange">Conference</span> | | |
 | ^ | ^ | PM | | | <span class="orange">Conference</span> | | |
