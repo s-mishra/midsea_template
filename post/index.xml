@@ -5,12 +5,29 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jun 2024 09:00:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Jun 2025 09:00:00 +0800</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu215c6a594f1c7b449e84fe10ab34abe8_13979_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>MIDSEA Summer School 2025</title>
+      <link>https://example.com/post/summer-school-edm-2025/</link>
+      <pubDate>Sun, 22 Jun 2025 09:00:00 +0800</pubDate>
+      <guid>https://example.com/post/summer-school-edm-2025/</guid>
+      <description>&lt;p&gt;Following on from the successful &lt;a href=&#34;https://example.com/summer-school/2024&#34;&gt;MIDSEA Summer School 2024&lt;/a&gt; in Quy Nhon, Viet Nam, this year we are moving to the ancient city of &lt;strong&gt;Yogyakarta in Indonesia&lt;/strong&gt;. The &lt;a href=&#34;https://example.com/summer-school/2025&#34;&gt;MIDSEA Summer School 2025&lt;/a&gt; will run from &lt;strong&gt;23 to 29 June&lt;/strong&gt;, in partnership with Universitas Gadjah Mada, one of Indonesia&amp;rsquo;s and the region&amp;rsquo;s leading universities. The venue will be &lt;a href=&#34;https://www.alanahotels.com/en/hotel/view/3/the-alana-yogyakarta-hotel---convention-center&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Alana Hotel, Yogyakarta&lt;/a&gt;, which will also serve as the accommodation for participants.&lt;/p&gt;
+&lt;p&gt;Please register yourself &lt;a href=&#34;https://nus.syd1.qualtrics.com/jfe/form/SV_5ph6UjhMcFgoQey&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
     
     <item>
       <title>MIDSEA Summer School, Workshop and Symposium</title>

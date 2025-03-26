@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/authors/</loc>
+    <lastmod>2025-06-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2025-06-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/summer-school-edm-2025/</loc>
+    <lastmod>2025-06-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/summer-school-edm-2025/</loc>
+    <lastmod>2025-06-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/modelling/</loc>
+    <lastmod>2025-06-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/</loc>
+    <lastmod>2025-06-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/summer-school/</loc>
+    <lastmod>2025-06-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/swapnil-mishra/</loc>
+    <lastmod>2025-06-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/symposium/</loc>
+    <lastmod>2025-06-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2025-06-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/vaccine/</loc>
+    <lastmod>2025-06-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/workshop/</loc>
+    <lastmod>2025-06-22T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/summer-school/2025/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10,15 +58,7 @@
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/authors/</loc>
-    <lastmod>2024-06-19T09:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/author/crystal-chua/</loc>
-    <lastmod>2024-06-19T09:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/</loc>
     <lastmod>2024-06-19T09:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -27,34 +67,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/summer-school-edm/</loc>
-    <lastmod>2024-06-19T09:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/modelling/</loc>
-    <lastmod>2024-06-19T09:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/event/</loc>
-    <lastmod>2024-06-19T09:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/summer-school/</loc>
-    <lastmod>2024-06-19T09:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/symposium/</loc>
-    <lastmod>2024-06-19T09:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2024-06-19T09:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/vaccine/</loc>
-    <lastmod>2024-06-19T09:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/workshop/</loc>
     <lastmod>2024-06-19T09:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -299,6 +311,9 @@
     <loc>https://example.com/author/sophearen-lth/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/post/tracks/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/author/swapnil-mishra/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -306,6 +321,21 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/thitiya-theparod/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/tracks/track1/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/tracks/track2/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/tracks/track3/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/tracks/track4/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/tracks/track5/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/victoria-may-p.-mendoza/</loc>

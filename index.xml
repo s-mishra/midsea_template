@@ -14,10 +14,42 @@
     
     <item>
       <title>MIDSEA Summer School 2025</title>
+      <link>https://example.com/event/summer-school-edm-2025/</link>
+      <pubDate>Sun, 22 Jun 2025 09:00:00 +0800</pubDate>
+      <guid>https://example.com/event/summer-school-edm-2025/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MIDSEA Summer School 2025</title>
+      <link>https://example.com/post/summer-school-edm-2025/</link>
+      <pubDate>Sun, 22 Jun 2025 09:00:00 +0800</pubDate>
+      <guid>https://example.com/post/summer-school-edm-2025/</guid>
+      <description>&lt;p&gt;Following on from the successful &lt;a href=&#34;https://example.com/summer-school/2024&#34;&gt;MIDSEA Summer School 2024&lt;/a&gt; in Quy Nhon, Viet Nam, this year we are moving to the ancient city of &lt;strong&gt;Yogyakarta in Indonesia&lt;/strong&gt;. The &lt;a href=&#34;https://example.com/summer-school/2025&#34;&gt;MIDSEA Summer School 2025&lt;/a&gt; will run from &lt;strong&gt;23 to 29 June&lt;/strong&gt;, in partnership with Universitas Gadjah Mada, one of Indonesia&amp;rsquo;s and the region&amp;rsquo;s leading universities. The venue will be &lt;a href=&#34;https://www.alanahotels.com/en/hotel/view/3/the-alana-yogyakarta-hotel---convention-center&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Alana Hotel, Yogyakarta&lt;/a&gt;, which will also serve as the accommodation for participants.&lt;/p&gt;
+&lt;p&gt;Please register yourself &lt;a href=&#34;https://nus.syd1.qualtrics.com/jfe/form/SV_5ph6UjhMcFgoQey&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MIDSEA Summer School 2025</title>
       <link>https://example.com/summer-school/2025/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://example.com/summer-school/2025/</guid>
-      <description>&lt;p&gt;Following on from the successful &lt;a href=&#34;https://example.com/summer-school/2024&#34;&gt;MIDSEA Summer School 2024&lt;/a&gt; in Quy Nhon, Viet Nam, this year we are moving to the ancient city of &lt;strong&gt;Yogyakarta in Indonesia&lt;/strong&gt;. The &lt;a href=&#34;https://example.com/summer-school/2025&#34;&gt;MIDSEA Summer School 2025&lt;/a&gt; will run from &lt;strong&gt;23 to 29 June&lt;/strong&gt;, in partnership with Universitas Gadjah Mada, one of Indonesia&amp;rsquo;s and the region&amp;rsquo;s leading universities.&lt;/p&gt;
+      <description>&lt;p&gt;Following on from the successful &lt;a href=&#34;https://example.com/summer-school/2024&#34;&gt;MIDSEA Summer School 2024&lt;/a&gt; in Quy Nhon, Viet Nam, this year we are moving to the ancient city of &lt;strong&gt;Yogyakarta in Indonesia&lt;/strong&gt;. The &lt;a href=&#34;https://example.com/summer-school/2025&#34;&gt;MIDSEA Summer School 2025&lt;/a&gt; will run from &lt;strong&gt;23 to 29 June&lt;/strong&gt;, in partnership with Universitas Gadjah Mada, one of Indonesia&amp;rsquo;s and the region&amp;rsquo;s leading universities. The venue will be &lt;a href=&#34;https://www.alanahotels.com/en/hotel/view/3/the-alana-yogyakarta-hotel---convention-center&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Alana Hotel, Yogyakarta&lt;/a&gt;, which will also serve as the accommodation for participants&lt;/p&gt;
 &lt;p&gt;The main features of the Summer School will be:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Parallel Tracks to cover basic and advanced topics in infectious disease modelling&lt;/li&gt;
@@ -78,11 +110,11 @@
 &lt;th&gt;&lt;div class=&#34;col-day&#34;&gt;Day&lt;/div&gt;&lt;/th&gt;
 &lt;th&gt;&lt;div class=&#34;col-date&#34;&gt;Date&lt;/div&gt;&lt;/th&gt;
 &lt;th&gt;&lt;div class=&#34;col-session&#34;&gt;Session&lt;/div&gt;&lt;/th&gt;
-&lt;th&gt;&lt;div class=&#34;col-track1&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track1&#34;&gt;Track&lt;/a&gt;&lt;/div&gt;&lt;/th&gt;
-&lt;th&gt;&lt;div class=&#34;col-track2&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track2&#34;&gt;Track&lt;/a&gt;&lt;/div&gt;&lt;/th&gt;
-&lt;th&gt;&lt;div class=&#34;col-track3&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track3&#34;&gt;Track&lt;/a&gt;&lt;/div&gt;&lt;/th&gt;
-&lt;th&gt;&lt;div class=&#34;col-track4&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track4&#34;&gt;Track&lt;/a&gt;&lt;/div&gt;&lt;/th&gt;
-&lt;th&gt;&lt;div class=&#34;col-track5&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track5&#34;&gt;Track&lt;/a&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th&gt;&lt;div class=&#34;col-track1&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track1&#34;&gt;Track&lt;/a&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th&gt;&lt;div class=&#34;col-track2&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track2&#34;&gt;Track&lt;/a&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th&gt;&lt;div class=&#34;col-track3&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track3&#34;&gt;Track&lt;/a&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th&gt;&lt;div class=&#34;col-track4&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track4&#34;&gt;Track&lt;/a&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th&gt;&lt;div class=&#34;col-track5&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track5&#34;&gt;Track&lt;/a&gt;&lt;/div&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -110,21 +142,21 @@
 &lt;td&gt;^&lt;/td&gt;
 &lt;td&gt;^&lt;/td&gt;
 &lt;td&gt;PM&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track1&#34;&gt;Modelling 101&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;purple&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track2&#34;&gt;Simulation&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track3&#34;&gt;Inference&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;light-purple&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track4&#34;&gt;AI&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;green&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track5&#34;&gt;Specialised topics&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track1&#34;&gt;Modelling 101&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;purple&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track2&#34;&gt;Simulation&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track3&#34;&gt;Inference&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;light-purple&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track4&#34;&gt;AI&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;green&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track5&#34;&gt;Specialised topics&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2 Tue&lt;/td&gt;
 &lt;td&gt;24th&lt;/td&gt;
 &lt;td&gt;AM&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track1&#34;&gt;Modelling 101&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;purple&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track2&#34;&gt;Simulation&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track3&#34;&gt;Inference&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;light-purple&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track4&#34;&gt;AI&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;green&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track5&#34;&gt;Specialised topics&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track1&#34;&gt;Modelling 101&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;purple&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track2&#34;&gt;Simulation&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track3&#34;&gt;Inference&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;light-purple&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track4&#34;&gt;AI&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;green&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track5&#34;&gt;Specialised topics&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;^&lt;/td&gt;
@@ -150,11 +182,11 @@
 &lt;td&gt;4 Thu&lt;/td&gt;
 &lt;td&gt;26th&lt;/td&gt;
 &lt;td&gt;AM&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track1&#34;&gt;Modelling 101&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;purple&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track2&#34;&gt;Simulation&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track3&#34;&gt;Inference&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;light-purple&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track4&#34;&gt;AI&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;green&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track5&#34;&gt;Specialised topics&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track1&#34;&gt;Modelling 101&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;purple&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track2&#34;&gt;Simulation&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track3&#34;&gt;Inference&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;light-purple&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track4&#34;&gt;AI&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;green&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track5&#34;&gt;Specialised topics&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;^&lt;/td&gt;
@@ -170,11 +202,11 @@
 &lt;td&gt;5 Fri&lt;/td&gt;
 &lt;td&gt;27th&lt;/td&gt;
 &lt;td&gt;AM&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track1&#34;&gt;Modelling 101&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;purple&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track2&#34;&gt;Simulation&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track3&#34;&gt;Inference&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;light-purple&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track4&#34;&gt;AI&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;green&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track5&#34;&gt;Specialised topics&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track1&#34;&gt;Modelling 101&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;purple&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track2&#34;&gt;Simulation&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track3&#34;&gt;Inference&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;light-purple&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track4&#34;&gt;AI&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;green&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track5&#34;&gt;Specialised topics&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;^&lt;/td&gt;
@@ -190,11 +222,11 @@
 &lt;td&gt;6 Sat&lt;/td&gt;
 &lt;td&gt;28th&lt;/td&gt;
 &lt;td&gt;AM&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track1&#34;&gt;Modelling 101&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;purple&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track2&#34;&gt;Simulation&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track3&#34;&gt;Inference&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;light-purple&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track4&#34;&gt;AI&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;green&#34;&gt;&lt;a href=&#34;https://example.com/summer-school/2025/tracks/track5&#34;&gt;Specialised topics&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track1&#34;&gt;Modelling 101&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;purple&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track2&#34;&gt;Simulation&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;blue&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track3&#34;&gt;Inference&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;light-purple&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track4&#34;&gt;AI&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;green&#34;&gt;&lt;a href=&#34;https://example.com/post/tracks/track5&#34;&gt;Specialised topics&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;^&lt;/td&gt;
@@ -708,6 +740,103 @@ Further event details, including page elements such as image galleries, can be a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Track 1: Modelling 101</title>
+      <link>https://example.com/post/tracks/track1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/tracks/track1/</guid>
+      <description>&lt;h1 id=&#34;track-1-modelling-101&#34;&gt;Track 1: Modelling 101&lt;/h1&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Introduction to infectious disease modelling concepts and basic mathematical frameworks.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;basic R&lt;/li&gt;
+&lt;li&gt;understanding of ODEs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;course-content&#34;&gt;Course Content&lt;/h2&gt;
+&lt;p&gt;This track is the introduction to mathematical modelling for those who are new to or have limited experience in the field. We will cover formulating modeling questions, the building of models, model parameterisation,  running models in R, modelling interventions and model communication. As well as covering the technical aspects we will focus on the use of these models in practice for real world questions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/summer-school/2025/&#34;&gt;← Back to Schedule&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Track 2: Simulation</title>
+      <link>https://example.com/post/tracks/track2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/tracks/track2/</guid>
+      <description>&lt;h1 id=&#34;track-2-simulation&#34;&gt;Track 2: Simulation&lt;/h1&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Hands-on experience with simulation techniques and numerical methods.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;basic R&lt;/li&gt;
+&lt;li&gt;understanding of ODEs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;course-content&#34;&gt;Course Content&lt;/h2&gt;
+&lt;p&gt;This track focuses on stochastic simulation models, allowing participants to study how randomness impacts on the dynamics of outbreaks. We will cover some fundamental ideas in stochastic processes, such as Poisson processes, and fundamental approaches to implement them through computer simulation. We will then cover stochastic compartmental models, and static and dynamic network models. Participants should have some experience in coding and have knowledge of compartmental models (like SIR style models).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/summer-school/2025/&#34;&gt;← Back to Schedule&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Track 3: Inference</title>
+      <link>https://example.com/post/tracks/track3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/tracks/track3/</guid>
+      <description>&lt;h1 id=&#34;track-3-inference&#34;&gt;Track 3: Inference&lt;/h1&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Advanced statistical methods for parameter estimation and model calibration.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Any form of model fitting experience in which you tweak a model to better align with data (even if in casual or nonstandard ways)&lt;/li&gt;
+&lt;li&gt;At least know the concept of &amp;ldquo;likelihood&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;course-content&#34;&gt;Course Content&lt;/h2&gt;
+&lt;p&gt;This track focuses on model fitting / parameter estimation approaches: once you have your model and data, how you should adjust the parameters so that the model best represent your data. Topics to be covered include maximum likelihood estimation, Bayesian inference / MCMC, model assessment and selection, etc. Emphasis will be placed on the theoretical backgrounds, rationales and principles rather than on specific techniques (althoug some will be covered). The goal is to make sure that you know what you are doing, including its limitations and pitfalls, instead of blindly using exsiting tools.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;If you think you don&amp;rsquo;t know about inference, come to this track. If you think you know about inference, more reasons for you to come to this track&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/summer-school/2025/&#34;&gt;← Back to Schedule&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Track 4: AI for IDM</title>
+      <link>https://example.com/post/tracks/track4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/tracks/track4/</guid>
+      <description>&lt;h1 id=&#34;track-4-ai&#34;&gt;Track 4: AI&lt;/h1&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Applications of machine learning in infectious disease modelling.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic understanding of epidemiology and infectious disease concepts&lt;/li&gt;
+&lt;li&gt;Undergraduate-level statistics (descriptive statistics, regression analysis)&lt;/li&gt;
+&lt;li&gt;Basic programming experience (preferably one of Python, R or Julia)&lt;/li&gt;
+&lt;li&gt;Some sort of exposure to computational statistics or computational mathematical modelling or machine learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;course-content&#34;&gt;Course Content&lt;/h2&gt;
+&lt;p&gt;This course explores the intersection of artificial intelligence and infectious disease modeling, equipping participants with practical skills to leverage AI in epidemiology, tropical medicine, and public health contexts. Participants will learn to work with diverse epidemiological data types (text, images, audio) and master data engineering fundamentals essential for building robust AI systems. Through hands-on sessions using Orange and supplementary Python scripts, students will develop predictive models for classification and regression tasks, as well as diagnostic models for disease detection and risk assessment. The curriculum progresses from simple machine learning algorithms to more complex deep learning architectures, with a focus on practical implementation and responsible deployment. Students will gain proficiency in evaluating model performance using key metrics specific to infectious disease applications. Additional modules will cover citizen science approaches, and the ethical considerations essential to AI deployment in public health contexts. By the course&amp;rsquo;s conclusion, participants will possess the technical skills and ethical framework necessary to apply AI solutions to pressing infectious disease challenges&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/summer-school/2025/&#34;&gt;← Back to Schedule&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Track 5: Specialised topics</title>
+      <link>https://example.com/post/tracks/track5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/tracks/track5/</guid>
+      <description>&lt;h1 id=&#34;track-5-specialised-topics&#34;&gt;Track 5: Specialised topics&lt;/h1&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Advanced topics in specific disease areas and modelling approaches.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Have taken Modelling 101 or Simulations (or have some equivalent modelling experiences)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;course-content&#34;&gt;Course Content&lt;/h2&gt;
+&lt;p&gt;This track will explore how core modelling skills can be applied to specialised topics, including modelling within-host infection dynamics, evaluating the cost-effectiveness of interventions like non-pharmaceutical measures and vaccines, and incorporating space into infectious disease outbreaks. The goal is to help participants bridge the gap between general modelling knowledge and practical, topic-specific applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/summer-school/2025/&#34;&gt;← Back to Schedule&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
